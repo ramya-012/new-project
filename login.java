@@ -3,4 +3,4 @@ public class login
 public static void main(string args[])
 {
 int i;
-for(i=20);
+for(i=25);
